@@ -1,0 +1,5 @@
+c:\users\kristinn\documents\visual studio 2015\Projects\BruteForceMaster\BruteForceMaster\bin\Debug\BruteForceMaster.exe.config
+c:\users\kristinn\documents\visual studio 2015\Projects\BruteForceMaster\BruteForceMaster\bin\Debug\BruteForceMaster.exe
+c:\users\kristinn\documents\visual studio 2015\Projects\BruteForceMaster\BruteForceMaster\bin\Debug\BruteForceMaster.pdb
+c:\users\kristinn\documents\visual studio 2015\Projects\BruteForceMaster\BruteForceMaster\obj\Debug\BruteForceMaster.exe
+c:\users\kristinn\documents\visual studio 2015\Projects\BruteForceMaster\BruteForceMaster\obj\Debug\BruteForceMaster.pdb
